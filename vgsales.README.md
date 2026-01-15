@@ -28,3 +28,4 @@ Identify opportunities for new game releases
 ## Outcome:
 The interactive dashboard allows users to explore sales by platform, genre, year, and region, helping decision-makers understand market trends and make data-driven strategies.
 
+![image alt](https://github.com/sultana-003/tableau_dashboard_projects/blob/9503e599b66483d338fd5c9a30dcfd0a691d9d4c/Screenshot%202026-01-15%20182219.png)
