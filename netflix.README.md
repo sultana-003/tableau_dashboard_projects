@@ -23,7 +23,7 @@ This dashboard helps stakeholders understand content distribution, identify popu
 
 ## Outcome:
 The final dashboard provides a clear, interactive view of Netflix’s global content trends and can be used for strategic content planning and market analysis.
-![image alt](
+![image alt](https://github.com/sultana-003/tableau_dashboard_projects/blob/ca3e842b59f9a73b2f8bb60ae74448e9ed09863a/Screenshot%202026-01-15%20182128.png)
 
 live dashboard :
 [click here](https://public.tableau.com/app/profile/sultana.parveen/viz/Netflix_17681815228330/Netflix)
