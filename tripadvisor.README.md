@@ -18,4 +18,6 @@ This Tableau project analyzes TripAdvisor hotel and traveler data to evaluate ho
 
 This project demonstrates my ability to create calculated KPIs, solve business-driven analytical problems, and present insights through effective data visualization using Tableau.
 
-![image alt](
+![image alt](https://github.com/sultana-003/tableau_dashboard_projects/blob/19faad4e68e59731cffd7ea9cbf14f26de658cf6/Screenshot%202026-01-16%20153932.png)
+
+[link for tableau public](https://public.tableau.com/app/profile/sultana.parveen/viz/Tripadvisor_dashboard_17685960801260/Tripadvisor_dashboard)
