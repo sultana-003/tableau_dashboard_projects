@@ -68,6 +68,8 @@ The dashboard helps stakeholders quickly understand **how sales are performing o
 - Tableau Desktop / Tableau Public
 - CSV Data Source (Superstore Dataset)
 
+- [image https://github.com/sultana-003/tableau_dashboard_projects/blob/1802796fffc468535c06ef436fb1e1de8abd553a/Screenshot%202026-01-23%20143930.pngalt]
+
 
 
 
