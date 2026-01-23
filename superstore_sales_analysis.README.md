@@ -70,6 +70,8 @@ The dashboard helps stakeholders quickly understand **how sales are performing o
 
   ![Image Alt](https://github.com/sultana-003/tableau_dashboard_projects/blob/1802796fffc468535c06ef436fb1e1de8abd553a/Screenshot%202026-01-23%20143930.png)
 
+  [tableau public link](https://public.tableau.com/app/profile/sultana.parveen/vizzes)
+
 
 
 
