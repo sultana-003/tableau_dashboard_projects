@@ -69,7 +69,7 @@ The goal of this project is to analyze hospital performance, patient outcomes, c
 
 ![Image Alt](https://github.com/sultana-003/tableau_dashboard_projects/blob/17c96fb6cb144bf4e74b3fbb89d1b2639827c88a/Screenshot%202026-02-07%20121311.png)
 
-![link for tableau public](https://public.tableau.com/app/profile/sultana.parveen/viz/HealthcareDashboard_17704876849120/Dashboard1)
+[link for tableau public](https://public.tableau.com/app/profile/sultana.parveen/viz/HealthcareDashboard_17704876849120/Dashboard1)
 
 
 
