@@ -193,7 +193,11 @@ The dataset represents individual pizza-level transactions, meaning one order ca
 ##### This Tableau dashboard provides a comprehensive view of pizza sales performance across product categories, ingredients, pricing, and time of day.
 
 ##### The insights can help management:
+
 - Improve operational efficiency
 - Increase revenue through targeted promotions
 - Optimize inventory
 - Enhance customer satisfaction
+
+
+  ![Image here](https://github.com/sultana-003/tableau_dashboard_projects/blob/e6a77f2e3f2d4b137c4755856a1a9e557a2f0cee/Screenshot%202026-02-11%20155358.png)
