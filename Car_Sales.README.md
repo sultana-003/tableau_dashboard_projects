@@ -74,12 +74,17 @@
 - Brand analysis
 - Sales trend monitoring
 - Strategic decision-making
-
 ### The dashboard helps management quickly identify revenue drivers and customer preferences.
 
 
 
+
+
+
 ![image here](https://github.com/sultana-003/tableau_dashboard_projects/blob/5a21ed5f3e567363c4de738284462589f9d13213/Screenshot%202026-02-22%20154017.png)
+
+
+[Tableau Public Link Here](https://public.tableau.com/app/profile/sultana.parveen/viz/Car_Sales_17717883565130/Dashboard1)
 
 
 
